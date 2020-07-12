@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi all 👋
+**Hope you all doing well**
+
+* I am passionate developer to self learn the interested tech
 
 <!--
 **PradeepHGK/PradeepHGK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
