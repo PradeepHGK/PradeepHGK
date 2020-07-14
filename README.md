@@ -9,7 +9,7 @@
 
 - 📫 How to reach me:
 
-* [Linkedin](www.linkedin.com/in/pradeephgk)
+  * [Linkedin](www.linkedin.com/in/pradeephgk)
 
 <!--
 **PradeepHGK/PradeepHGK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
