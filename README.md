@@ -2,7 +2,7 @@
 **Hope you all doing well**
 
 * I am passionate developer to self learn the interested tech
-- 🔭 I’m currently working on Unity Architechture application which is in Android, IOS, Hololens, UWP.
+- 🔭 I’m currently working on Unity Architecture application which is in Android, IOS, Hololens, UWP.
 - 🌱 I’m currently learning typescript.
 
 - 🤔 I’m looking for help in DS & Algo
