@@ -7,10 +7,11 @@
 - 🤔 I’m looking for help in DS & Algo
 - 👯 I’m looking to collaborate on backend projects.
 - 📫 How to reach me:
-  * [LinkedIn](www.linkedin.com/in/pradeephgk)
+  
   
 
 <!--
+* [LinkedIn](www.linkedin.com/in/pradeephgk)
 **PradeepHGK/PradeepHGK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
