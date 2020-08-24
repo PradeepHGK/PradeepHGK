@@ -3,7 +3,7 @@
 
 * I am a passionate self learning developer 
 - 🔭 I’m currently working on Unity Architecture application which is in Android, IOS, Hololens, UWP.
-- 🌱 I’m currently learning typescript.
+- 🌱 I’m currently learning flutter.
 - 🤔 I’m looking for help in DS & Algo
 - 👯 I’m looking to collaborate on backend projects.
 
