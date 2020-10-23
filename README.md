@@ -1,6 +1,9 @@
 ### Hi all 👋
 **Hope you all doing well**
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="pradeephgk"><a class="LI-simple-link" href='https://in.linkedin.com/in/pradeephgk?trk=profile-badge'>Pradeep H</a></div>
+
+[![Linkedin Badge](https://img.shields.io/badge/-PradeepHGK-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/pradeephgk/)](https://www.linkedin.com/in/pradeephgk/) 
+[![Gmail Badge](https://img.shields.io/badge/-PradeepHGK-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:pradeephari1594@gmail.com)](mailto:pradeephari1594@gmail.com)
+
 
 * I am a passionate self learning developer 
 - 🔭 I’m currently working on Unity Architecture application which is in Android, IOS, Hololens, UWP.
@@ -12,6 +15,10 @@
   
 
 <!--
+
+[![GitHub](https://img.shields.io/github.com/PradeepHGK?label=Follow&style=social)](https://github.com/PradeepHGK?tab=repositories) 
+
+[![GitHub followers](https://img.shields.io/github/followers/Shivansh2407?label=Follow&style=social)](https://github.com/Shivansh2407/?tab=follow) 
 - 📫 How to reach me:
 * [LinkedIn](www.linkedin.com/in/pradeephgk)
 **PradeepHGK/PradeepHGK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
