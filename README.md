@@ -1,5 +1,6 @@
 ### Hi all 👋
 **Hope you all doing well**
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="pradeephgk"><a class="LI-simple-link" href='https://in.linkedin.com/in/pradeephgk?trk=profile-badge'>Pradeep H</a></div>
 
 * I am a passionate self learning developer 
 - 🔭 I’m currently working on Unity Architecture application which is in Android, IOS, Hololens, UWP.
