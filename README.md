@@ -7,9 +7,8 @@
 
 * I am a passionate self learning developer 
 - 🔭 I’m currently working on Unity based Architecture application which is on Android, IOS, Hololens, UWP.
-- 🌱 I’m currently learning flutter.
-- 🤔 I’m also working on upgrading myself in DS & Algo
-- 👯 I’m looking to collaborate on projects.
+- 🌱 Please check out my few flutter application in repo.
+- 🤔 I’m also working on upgrading myself in DS & Algo.
 
   
   
